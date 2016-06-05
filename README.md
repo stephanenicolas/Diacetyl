@@ -4,8 +4,9 @@
 
 Diacetyl
 ==========
- Diacetyl ... is added to some foods to impart its buttery flavor.
- (source: wikipedia)
+
+> Diacetyl ... is added to some foods to impart its buttery flavor.
+> (source: wikipedia)
 
  It adds artifical butterflavor to your Butterknife in test environments.
  When running unit tests you don't need to run Butterknife or similar as this
